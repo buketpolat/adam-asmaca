@@ -75,26 +75,5 @@ python adam_asmaca_tr.py
 
 ---
 
-## 📄 Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır.  
-Dilediğiniz gibi kullanabilir, geliştirebilir ve paylaşabilirsiniz.
-
----
-
-## ✨ Katkıda Bulunma
-1. Bu projeyi forklayın.
-2. Yeni bir dal (branch) oluşturun:  
-   ```bash
-   git checkout -b ozellik-adi
-   ```
-3. Değişikliklerinizi kaydedin ve açıklayıcı commit mesajı yazın.
-4. Dalınızı GitHub'a gönderin:  
-   ```bash
-   git push origin ozellik-adi
-   ```
-5. Bir **Pull Request** açın.
-
----
-
 👤 **Geliştirici:** Nehir Buket Polat  
 📧 İletişim: [buketpolat08@outlook.com]
